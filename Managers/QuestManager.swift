@@ -1,3 +1,11 @@
+//
+//  QuestManager.swift
+//  TODO
+//
+//  Created by Gard Heine Kalland on 01/01/2025.
+//
+
+
 import Foundation
 
 class QuestManager {

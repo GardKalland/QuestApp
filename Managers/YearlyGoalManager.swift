@@ -1,11 +1,5 @@
 import Foundation
 
-struct YearlyGoal: Codable, Identifiable {
-    let id = UUID()
-    var title: String
-    var progress: Int
-    var target: Int
-}
 
 class YearlyGoalManager {
     static let shared = YearlyGoalManager()
